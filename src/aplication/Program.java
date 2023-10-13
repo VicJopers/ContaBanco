@@ -37,6 +37,7 @@ public class Program {
 			System.out.println(e.getMessage());
 		}
 
+		System.out.println("Apenas uma frase aleatória para um teste");
 		
 		sc.close();
 	}
